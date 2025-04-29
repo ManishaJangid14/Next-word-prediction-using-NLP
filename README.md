@@ -16,6 +16,7 @@
 6.	Deployment: The trained model is then deployed into a production environment to check how accurate it is able to predict the next word.
 
 - **Use of Jupyter Notebook:** Utilize Jupyter Notebook for the entire project, including data cleaning, preprocessing, EDA, model building, and evaluation.
+  
 - **Business Use case:**   
 •	Typing Assistants: Predict the next word while users are typing on smartphones or computers. This helps in reducing keystrokes, improving writing speed, and enhancing the user experience.  
 •	Chatbots and Virtual Assistants: Enhance the natural language understanding of conversational agents. The model helps predict user queries and generates more coherent and relevant responses.   
